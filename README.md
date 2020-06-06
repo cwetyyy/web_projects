@@ -9,7 +9,7 @@ PIZZA HOUSE
 
 NOTES WEB APP 
 
-"Notes" er en web app for srivning af noter. Det er en studieprojekt der koncentrere om backend og funktionalitet. Appen er forbundet med dabatase og der udfører nogle CRUD operationer for at løse forskellige opgaver, f.eks: Sign Up og Sign In; skrive, opdatere eller slette en note; og del noter med forskellige brugere.
+"Notes" er en web app for skrivning af noter. Det er et studieprojekt der koncentrere om backend og funktionalitet. Appen er forbundet med database og det udfører nogle CRUD-operationer for at løse forskellige opgaver, fx: Sign Up og Sign In; skrive, opdatere eller slette en note; og del noter med forskellige brugere.
 
-Udviklingen inludere Node.Js, som runtime environment, Express som framework, EJS for template engine og MySql database til indsamling af brugere og notater.
+Udviklingen inkludere Node.Js, som runtime environment, Express framework, EJS for template engine og MySql database til indsamling af brugere og notaer.
 
